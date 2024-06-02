@@ -1,0 +1,2 @@
+# ProxyList
+Bang
